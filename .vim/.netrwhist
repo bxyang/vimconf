@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/etc/openvswitch-switch'
+let g:netrw_dirhist_2='/root/Documents'
+let g:netrw_dirhist_3='/root/Documents/gdp/phase4-channel/ac'
+let g:netrw_dirhist_4='/root/Documents/pox-betta/ext/poxdesk/poxdesk/source'
+let g:netrw_dirhist_5='/root/Documents/pox-betta/ext/poxdesk/poxdesk/source/script'
+let g:netrw_dirhist_6='/root/Documents/pox-betta/pox/topology'
+let g:netrw_dirhist_7='/root/Documents/gdp/phase4-channel/ac'
